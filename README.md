@@ -9,4 +9,4 @@
 - Tools
 
 ### 3) FastAPI templates
-- https://github.com/tiangolo/full-stack-fastapi-template (2023)
+- https://github.com/tiangolo/full-stack-fastapi-template (2024)
