@@ -10,3 +10,7 @@
 
 ### 3) FastAPI templates
 - https://github.com/tiangolo/full-stack-fastapi-template (2024)
+### 4) Libraries
+#### 1. Database
+- pydantic
+  - https://docs.pydantic.dev/latest/concepts/models/
