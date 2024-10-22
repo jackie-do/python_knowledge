@@ -1,16 +1,20 @@
-# 1) How to learn Python
-- xxx
+# Python Knowledge
 
-# 2) Roads for Python
-- Web development, we have some popular frameworks:
-  - Django
-  - Flask
-  - FastApi
-- Tools
+## I. Backend Python Frameworks
 
-### 3) FastAPI templates
-- https://github.com/tiangolo/full-stack-fastapi-template (2024)
-### 4) Libraries
-#### 1. Database
-- pydantic
-  - https://docs.pydantic.dev/latest/concepts/models/
+### 1. FastAPI
+
+#### a. Document
+
+- [Best Practices](https://github.com/zhanymkanov/fastapi-best-practices)
+- [FastAPI-template](https://github.com/s3rius/FastAPI-template)
+
+### 2. Django
+
+### 3. Flask
+
+## II. Libraries
+
+### 1. Database
+
+- pydantic - <https://docs.pydantic.dev/latest/concepts/models/>
